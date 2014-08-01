@@ -16,6 +16,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="local_storage_account" product="tablet">Τοπικός λογαριασμός tablet</string>
-  <string name="local_storage_account" product="default">Τοπικός λογαριασμός τηλεφώνου</string>
+  <string name="local_storage_account" product="tablet">로컬 태블릿 계정</string>
+  <string name="local_storage_account" product="default">로컬 휴대전화 계정</string>
 </resources>
